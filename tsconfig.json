@@ -18,6 +18,7 @@
   ],
   "include": [
     "./assets/Script/src/**/*.ts", 
-    "creator.d.ts"    
+    "./assets/Script/demo/**/*.ts",
+    "creator.d.ts"
   ]
 }
